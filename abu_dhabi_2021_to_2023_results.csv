@@ -1,0 +1,61 @@
+Track,Position,No,Driver,Team,Starting Grid,Laps,Time/Retired,Points,Fastest Lap,Year
+Abu Dhabi,1,33,Max Verstappen,Red Bull Racing Honda,1,58,30:17.3,26,01:26.1,2021
+Abu Dhabi,2,44,Lewis Hamilton,Mercedes,2,58,2.256,18,01:26.6,2021
+Abu Dhabi,3,55,Carlos Sainz,Ferrari,5,58,5.173,15,01:27.6,2021
+Abu Dhabi,4,22,Yuki Tsunoda,AlphaTauri Honda,8,58,5.692,12,01:27.5,2021
+Abu Dhabi,5,10,Pierre Gasly,AlphaTauri Honda,12,58,6.531,10,01:27.3,2021
+Abu Dhabi,6,77,Valtteri Bottas,Mercedes,6,58,7.463,8,01:26.9,2021
+Abu Dhabi,7,4,Lando Norris,McLaren Mercedes,3,58,59.2,6,01:26.8,2021
+Abu Dhabi,8,14,Fernando Alonso,Alpine Renault,11,58,61.708,4,01:27.6,2021
+Abu Dhabi,9,31,Esteban Ocon,Alpine Renault,9,58,64.026,2,01:28.2,2021
+Abu Dhabi,10,16,Charles Leclerc,Ferrari,7,58,66.057,1,01:28.4,2021
+Abu Dhabi,11,5,Sebastian Vettel,Aston Martin Mercedes,15,58,67.527,0,01:28.3,2021
+Abu Dhabi,12,3,Daniel Ricciardo,McLaren Mercedes,10,57,+1 lap,0,01:28.7,2021
+Abu Dhabi,13,18,Lance Stroll,Aston Martin Mercedes,13,57,+1 lap,0,01:28.6,2021
+Abu Dhabi,14,47,Mick Schumacher,Haas Ferrari,19,57,+1 lap,0,01:29.5,2021
+Abu Dhabi,15,11,Sergio Perez,Red Bull Racing Honda,4,55,DNF,0,01:26.4,2021
+Abu Dhabi,NC,6,Nicholas Latifi,Williams Mercedes,16,50,DNF,0,01:29.3,2021
+Abu Dhabi,NC,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,14,33,DNF,0,01:29.4,2021
+Abu Dhabi,NC,63,George Russell,Williams Mercedes,17,26,DNF,0,01:30.6,2021
+Abu Dhabi,NC,7,Kimi Raikkönen,Alfa Romeo Racing Ferrari,18,25,DNF,0,01:29.7,2021
+Abu Dhabi,NC,9,Nikita Mazepin,Haas Ferrari,20,0,DNS,0,N/A,2021
+Abu Dhabi,1,1,Max Verstappen,Red Bull Racing Honda,1,58,27:02.6,26,01:27.0,2023
+Abu Dhabi,2,16,Charles Leclerc,Ferrari,2,58,17.993,18,01:28.2,2023
+Abu Dhabi,3,63,George Russell,Mercedes,4,58,20.328,15,01:28.2,2023
+Abu Dhabi,4,11,Sergio Perez,Red Bull Racing Honda,9,58,21.453,12,01:27.5,2023
+Abu Dhabi,5,4,Lando Norris,McLaren Mercedes,5,58,24.284,10,01:28.2,2023
+Abu Dhabi,6,81,Oscar Piastri,McLaren Mercedes,3,58,31.487,8,01:28.1,2023
+Abu Dhabi,7,14,Fernando Alonso,Aston Martin Aramco Mercedes,7,58,39.512,6,01:28.3,2023
+Abu Dhabi,8,22,Yuki Tsunoda,AlphaTauri Honda RBPT,6,58,43.088,4,01:29.3,2023
+Abu Dhabi,9,44,Lewis Hamilton,Mercedes,11,58,44.424,2,01:28.4,2023
+Abu Dhabi,10,18,Lance Stroll,Aston Martin Aramco Mercedes,13,58,55.632,1,01:28.1,2023
+Abu Dhabi,11,3,Daniel Ricciardo,AlphaTauri Honda RBPT,15,58,56.229,0,01:28.6,2023
+Abu Dhabi,12,31,Esteban Ocon,Alpine Renault,12,58,66.373,0,01:30.0,2023
+Abu Dhabi,13,10,Pierre Gasly,Alpine Renault,10,58,70.36,0,01:29.0,2023
+Abu Dhabi,14,23,Alexander Albon,Williams Mercedes,14,58,73.184,0,01:27.8,2023
+Abu Dhabi,15,27,Nico Hulkenberg,Haas Ferrari,8,58,83.696,0,01:29.2,2023
+Abu Dhabi,16,2,Logan Sargeant,Williams Mercedes,20,58,87.791,0,01:28.6,2023
+Abu Dhabi,17,24,Guanyu Zhou,Alfa Romeo Ferrari,19,58,89.422,0,01:28.7,2023
+Abu Dhabi,18,55,Carlos Sainz,Ferrari,16,57,DNF,0,01:29.5,2023
+Abu Dhabi,19,77,Valtteri Bottas,Alfa Romeo Ferrari,18,57,+1 lap,0,01:29.9,2023
+Abu Dhabi,20,20,Kevin Magnussen,Haas Ferrari,17,57,+1 lap,0,01:29.9,2023
+Abu Dhabi,1,1,Max Verstappen,Red Bull Racing Honda,1,58,27:45.9,25,,2022
+Abu Dhabi,2,16,Charles Leclerc,Ferrari,3,58,8.771,18,,2022
+Abu Dhabi,3,11,Sergio Perez,Red Bull Racing Honda,2,58,10.093,15,,2022
+Abu Dhabi,4,55,Carlos Sainz,Ferrari,4,58,24.892,12,,2022
+Abu Dhabi,5,63,George Russell,Mercedes,6,58,35.888,10,,2022
+Abu Dhabi,6,4,Lando Norris,McLaren Mercedes,7,58,56.234,9,,2022
+Abu Dhabi,7,31,Esteban Ocon,Alpine Renault,8,58,57.24,6,,2022
+Abu Dhabi,8,18,Lance Stroll,Aston Martin Aramco Mercedes,14,58,76.931,4,,2022
+Abu Dhabi,9,3,Daniel Ricciardo,McLaren Mercedes,13,58,83.268,2,,2022
+Abu Dhabi,10,5,Sebastian Vettel,Aston Martin Aramco Mercedes,9,58,83.898,1,,2022
+Abu Dhabi,11,22,Yuki Tsunoda,AlphaTauri RBPT,11,58,89.371,0,,2022
+Abu Dhabi,12,24,Guanyu Zhou,Alfa Romeo Ferrari,15,57,+1 lap,0,,2022
+Abu Dhabi,13,23,Alexander Albon,Williams Mercedes,19,57,+1 lap,0,,2022
+Abu Dhabi,14,10,Pierre Gasly,AlphaTauri RBPT,17,57,+1 lap,0,,2022
+Abu Dhabi,15,77,Valtteri Bottas,Alfa Romeo Ferrari,18,57,+1 lap,0,,2022
+Abu Dhabi,16,47,Mick Schumacher,Haas Ferrari,12,57,+1 lap,0,,2022
+Abu Dhabi,17,20,Kevin Magnussen,Haas Ferrari,16,57,+1 lap,0,,2022
+Abu Dhabi,18,44,Lewis Hamilton,Mercedes,5,55,DNF,0,,2022
+Abu Dhabi,19,6,Nicholas Latifi,Williams Mercedes,20,55,DNF,0,,2022
+Abu Dhabi,NC,14,Fernando Alonso,Alpine Renault,10,27,DNF,0,,2022
